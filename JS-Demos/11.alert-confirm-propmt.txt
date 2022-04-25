@@ -1,0 +1,3 @@
+alert shows message to user
+prompt - to read user input
+confirm - shows a message with Ok and cancel , returns true or false for cancel/Esc
