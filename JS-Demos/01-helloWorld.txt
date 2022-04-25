@@ -1,0 +1,13 @@
+ <script async src="./01-HelloWorld.js"></script>
+ this will download and runs the javascript
+
+
+  <script defer src="./01-HelloWorld.js"></script>
+  this will first read complete html and then execute javascript
+
+    <script>
+      alert('Hello World');
+    </script>
+
+
+    In console press shift+enter then it will go to next line then we can write multiple lines of code
