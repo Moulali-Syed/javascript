@@ -2,4 +2,5 @@ function sum(a, b) {
   //parameters
   return a + b;
 }
-sum(2, 5); //arguments
+let sum1 = sum(2, 5); //arguments
+console.log(sum1);
