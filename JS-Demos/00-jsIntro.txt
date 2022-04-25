@@ -1,0 +1,28 @@
+Javascript is a lightweight OOP language which is used by several websites for scripting the webpages.
+it is an interpreted full pledged programming language that enables dynamic interactivity on websites when applied to HTML document
+
+
+Javascript need ?
+create interactive websites
+pop up
+client side valiadtion
+event on click and many more
+
+where is js now?
+website client side
+server side - node js , express js
+mobile development - react native
+software development - electronjs example-vs code
+
+
+what is ES6,ES7,ES8.... and so on?
+are Javascript versions
+
+ECMA international makes standard of technologies
+Javascript: general purpose scripting langauge that conforms to ECMAScript confirmation
+
+ES6 and ES2015 are two different names for same thing
+
+Javascript engine V8 in chrome
+
+Compatiablity check - caniuse.com 
