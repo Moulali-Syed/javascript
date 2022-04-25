@@ -1,0 +1,4 @@
+var digit1 =10;
+let digit2  = 20;
+const digit3 = 30;
+//const cant be changed and also should be given value at the time of declarations
